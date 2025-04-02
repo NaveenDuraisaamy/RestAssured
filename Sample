@@ -1,0 +1,26 @@
+Dependencies
+1. Rest Assured
+2. JSON-Path
+3. JSON
+4. GSON
+5. TestNG
+6. ScribeJAVA-API's
+7. JSON-Schema Validator
+8. JSON Schema Validator
+
+HTTP Request
+============
+1. GET
+2. POST
+3. PUT
+4. PATCH
+
+Gerkin-Keywords
+============
+
+1. Given
+content type, set cookies, add auth, add param, set headers, info etc..
+2. When
+Get, Post, Put,Patch, Delete
+3. Then
+Validate Status Code, Extract Response, Extract Headers Cookies & Response Body
